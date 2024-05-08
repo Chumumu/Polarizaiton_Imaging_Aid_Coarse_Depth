@@ -67,7 +67,7 @@ Chuheng Xu
 
 This project builds upon ideas and code from the following research papers:
 
-- D. Zhu and W.A.P. Smith, "Depth from a polarisation + RGB stereo pair," in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019. This work inspired and provided a foundational methodology for Step 1 and Step 4 of our processing pipeline.
+- D. Zhu and W.A.P. Smith, "Depth from a polarisation + RGB stereo pair" 
 
-- Ye Yu and William A. P. Smith, "Depth estimation meets inverse rendering for single image novel view synthesis," in *Proceedings
+- Ye Yu and William A. P. Smith, "Depth estimation meets inverse rendering for single image novel view synthesis" 
 

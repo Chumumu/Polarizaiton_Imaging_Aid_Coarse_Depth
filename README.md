@@ -38,7 +38,7 @@ The final step merges the rough depth map with the disambiguated polarization no
 
 ```bash
 sudo apt-get install libopengm-bin libopengm-dev libopengm-doc python-opengm python-opengm-doc
-'''
+```
 
 
 

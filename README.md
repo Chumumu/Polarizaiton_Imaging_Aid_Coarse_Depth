@@ -40,6 +40,23 @@ The final step merges the rough depth map with the disambiguated polarization no
 sudo apt-get install libopengm-bin libopengm-dev libopengm-doc python-opengm python-opengm-doc
 ```
 
+## Usage
+
+Here's how to run each step of the process:
+
+- **Step 1-2**: Run the Matlab scripts `step1.m` and `step2.m` to process the initial stages.
+- **Step 3**: Execute the provided script in the Ubuntu 18.04 environment with OpenGM installed to disambiguate the polarization normals.
+- **Step 4**: Continue in Matlab with `step4.m` to complete the fusion of data.
+
+### Visualization Demo
+
+The `Figure_AO_paper` folder in the current directory contains visualization results and a testing demo. To view the demo, navigate to this folder and follow the instructions provided within to run the visualization scripts.
+
+### Utilities
+
+The `Utils` folder contains multiple utility functions that are essential for the various processing steps outlined above. These utilities provide additional functionality, such as data handling and transformations, that support the main scripts. Be sure to check this folder for any necessary functions that may need to be included or referenced in your script executions.
+
+### Further Details
 
 
 ## Authors

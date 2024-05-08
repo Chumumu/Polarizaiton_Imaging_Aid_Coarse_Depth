@@ -34,9 +34,11 @@ The final step merges the rough depth map with the disambiguated polarization no
 ### Prerequisites
 
 - **Matlab**: Ensure you have Matlab installed as most of the processing steps are performed in this environment.
-- **Ubuntu 18.04**: For running step 3, the system must be based on Ubuntu 18.04 due to specific dependencies 
-In order to install OpenGM please refer Installing OpenGM with Python wrapper, or by following command(Only support python2.7 and test on ubuntu18.04 only)
+**OpenGM Installation**: OpenGM is a required library for running step 3 of this project. Currently, it is only confirmed to install successfully on Ubuntu 18.04. To install OpenGM along with its Python wrapper, use the following command (note that it only supports Python 2.7):
+
+```bash
 sudo apt-get install libopengm-bin libopengm-dev libopengm-doc python-opengm python-opengm-doc
+
 
 
 

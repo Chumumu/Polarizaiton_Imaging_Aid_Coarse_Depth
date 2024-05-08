@@ -1,10 +1,10 @@
 # Polarizaiton_Imaging_Aid_Coarse_Depth
 
-# Project Title
 
 ## Description
 
-This project focuses on processing polarized images to extract surface information through various computational photography techniques. The steps outlined below describe the core functionality implemented in this repository.
+we develop a polarization imaging method for 3D reconstruction combined with fused coarse depth from speckle stereo to achieve reconstruction of less-texture object with highly reflective region. The contributions of this study can be summarized as follows: 1) We propose a polarization 3D imaging method that does not depend on the texture of objects, which intuitively fuses coarse depth with polarization information by establishing a large linear sparse equation system; 2) We discuss the necessity of taking into account both diffuse and specular reflection types under the perspective projection model.![image](https://github.com/Chumumu/Polarizaiton_Imaging_Aid_Coarse_Depth/assets/72724846/5fbb54fc-b638-4b83-b931-c04a7677ac8f)
+
 
 ## Steps
 

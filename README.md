@@ -52,6 +52,12 @@ Here's how to run each step of the process:
 
 The `Figure_AO_paper` folder in the current directory contains visualization results and demos. To view the demo, navigate to this folder and follow the instructions provided within to run the visualization scripts.
 
+Due to the size limit on file uploads, the data required to run the demos is stored on Google Drive. You can access and download the necessary files from the following link:
+
+[Download Data for Demos](https://drive.google.com/drive/folders/10sFo_iWknLYyDzRju7uJk0PI1Y12HW_a?usp=drive_link)
+
+Please ensure you have downloaded and placed the data in the appropriate directory as described in the visualization scripts before running the demos.
+
 ### Utilities
 
 The `Utils` folder contains multiple utility functions that are essential for the various processing steps outlined above. These utilities provide additional functionality, such as data handling and transformations, that support the main scripts. Be sure to check this folder for any necessary functions that may need to be included or referenced in your script executions.

@@ -50,7 +50,7 @@ Here's how to run each step of the process:
 
 ### Visualization Demo
 
-The `Figure_AO_paper` folder in the current directory contains visualization results and a testing demo. To view the demo, navigate to this folder and follow the instructions provided within to run the visualization scripts.
+The `Figure_AO_paper` folder in the current directory contains visualization results and demos. To view the demo, navigate to this folder and follow the instructions provided within to run the visualization scripts.
 
 ### Utilities
 

@@ -61,7 +61,7 @@ The `Utils` folder contains multiple utility functions that are essential for th
 
 ## Authors
 
-Chuheng Xu
+Chuheng Xu, Yao Hu
 
 # Acknowledgments
 
